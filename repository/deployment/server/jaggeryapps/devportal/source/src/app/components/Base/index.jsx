@@ -592,7 +592,7 @@ class Layout extends React.Component {
                                     {footerText && footerText !== '' ? <span>{footerText}</span> : (
                                         <FormattedMessage
                                             id='Base.index.copyright.text'
-                                            defaultMessage='WSO2 API-M v4.0.0 | © 2021 WSO2 Inc'
+                                            defaultMessage='OLD MUTUAL API-M v1.0.0 | © 2021 QNTM Ind.'
                                         />
                                     )}
                                 </Typography>

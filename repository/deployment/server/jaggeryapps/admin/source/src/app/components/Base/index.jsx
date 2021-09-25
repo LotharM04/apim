@@ -32,7 +32,7 @@ function Copyright() {
         <Typography variant='body2' color='textSecondary' align='center'>
             <FormattedMessage
                 id='Base.Footer.Footer.product_details'
-                defaultMessage='WSO2 API-M v4.0.0 | © 2021 WSO2 Inc'
+                defaultMessage='OLD MUTUAL API-M v1.0.0 | © 2021 QNTM Ind.'
             />
         </Typography>
     );
