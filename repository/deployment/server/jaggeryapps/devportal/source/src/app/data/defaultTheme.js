@@ -50,7 +50,7 @@ const DefaultConfigurations = {
       logo: "/site/public/images/OM_Logo_Developer.png", // You can set the url to an external image also ( ex: https://dummyimage.com/208x19/66aad1/ffffff&text=testlogo)
       logoHeight: 34,
       logoWidth: "auto",
-      background: "#0fa2db",
+      background: "#147a23",
       backgroundImage: "/site/public/images/appbarBack.png",
       searchInputBackground: "#fff",
       searchInputActiveBackground: "#fff",
