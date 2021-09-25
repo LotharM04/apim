@@ -224,7 +224,7 @@ export default {
                 },
             },
         },
-        // lifeCycleImage: '/site/public/images/logo.svg',
+        // lifeCycleImage: '/site/public/images/OM_Logo_Publisher.png',
         // Uncomment above if you want to add a custom image to the lifecycle diagram.
         commentsLimit: 5,
         maxCommentLength: 512,
